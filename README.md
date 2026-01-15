@@ -10,7 +10,6 @@ Building scalable systems, bots, and platforms on top of Proxmox, Docker & Ptero
 <div align="center">
 
 [![TechDev](https://img.shields.io/badge/TechDev-tdev.sa-0A66C2?style=for-the-badge)](https://t-i.dev)
-[![Right Host](https://img.shields.io/badge/Right_Host-Hosting-6E40C9?style=for-the-badge)](https://rhost.me)
 [![Discord](https://img.shields.io/badge/Discord-Right_Store-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/right)
 
 </div>
@@ -20,7 +19,7 @@ Building scalable systems, bots, and platforms on top of Proxmox, Docker & Ptero
 ## About me
 
 - 👨‍💻 Full-stack developer (remote / freelance) since 2019  
-- 🏗️ I build hosting infrastructure & automation (Proxmox + Pterodactyl + Docker)  
+- 🏗️ I build hosting infrastructure & automation (Proxmox + Docker + Pterodactyl)  
 - 🤖 I build Discord bots at scale (multi-bot systems, streaming, ticketing, automation)  
 - 🧠 Interested in AI hosting & running LLMs locally (Ollama + GPUs)  
 - 🎓 CS Data Science track — Graduation project: **MedSafe (AI Diabetic Retinopathy detection + reporting)**  
@@ -30,7 +29,7 @@ Building scalable systems, bots, and platforms on top of Proxmox, Docker & Ptero
 
 ## What I’m working on
 
-- 🔭 **TechDev / Right Host** — scalable hosting & automation ecosystem  
+- 🔭 **TechDev** — scalable hosting & automation ecosystem  
 - 🧩 Discord bot systems (multi-account, streaming IPTV/movies/series, ticket classification, AI support)  
 - 🖥️ Building infrastructure with: Proxmox clusters, IPv4 pools, Cloudflare, high uptime + security  
 - 🧠 AI compute / inference servers (GPU on-demand, optimization, performance tuning)  
@@ -108,12 +107,4 @@ Building scalable systems, bots, and platforms on top of Proxmox, Docker & Ptero
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Turkidev&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://paypal.me/Turkidev" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
-</a>
 </div>
